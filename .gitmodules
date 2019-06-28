@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:darnacusk/darnacusk.github.io.git
+	branch = master
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = git@github.com:StefMa/hugo-fresh.git
+	branch = master
