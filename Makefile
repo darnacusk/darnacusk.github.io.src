@@ -2,7 +2,7 @@ SHELL=/bin/bash
 TIMESTAMP=$(date +%s)
 
 DOMAIN_NAME="www.realmrunnerstudios.com"
-THEME="hugo-fresh"
+THEME="ananke"
 
 GIT_PUBLIC="git@github.com:darnacusk/darnacusk.github.io.git"
 

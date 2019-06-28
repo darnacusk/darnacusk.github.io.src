@@ -1,7 +1,7 @@
-baseURL: http://something-fresh.org/
+# baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
-theme: hugo-fresh
+title: Achroma
+theme: ananke
 
 params:
   navbarlogo:
